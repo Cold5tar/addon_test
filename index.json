@@ -1,0 +1,21 @@
+{
+    "repository": {
+      "name": "My Blender Addon Repository",
+      "description": "A repository of simple Blender addons",
+      "addon_format": "4.2",  // Indicates compatibility with Blender versions 2.8 and later
+      "website": "https://github.com/Cold5tar/addon_test"
+    },
+    "addons": [
+      {
+        "name": "My simple addon",
+        "description": "A simple addon that prints Hello World",
+        "author": "Your Name",
+        "version": "1.0.0",
+        "blender": "4.20",
+        "location": "https://raw.githubusercontent.com/your-username/blender-addon-repo/main/my_simple_addon.zip",
+        "download": "https://raw.githubusercontent.com/your-username/blender-addon-repo/main/my_simple_addon.zip",
+        "tracker": "https://github.com/your-username/blender-addon-repo/issues"
+      }
+    ]
+  }
+  
